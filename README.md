@@ -66,6 +66,6 @@ The following table outlines the responsibilities and contributions of each Grou
 | **Luyanda Dlamini** | Responsible for USB device detection and metadata monitoring, including background monitoring, device information collection and application event handling. |
 | **Zilungile Manzini** | Responsible for testing and evaluating the application, including normal device testing, edge-case testing, fault handling and performance evaluation. Also created and formatted the project's README.md documentation on GitHub. |
 | **Mthunzi Zulu** | Responsible for explaining and presenting Graduate Attributes GA2 and GA7, including engineering knowledge, sustainability, ethical considerations and the project's long-term impact. |
-| **Member 8** | Responsible for video editing and preparing the final project demonstration. |
+| **Siphokuhle Njoko** | Responsible for video editing and preparing the final project demonstration. |
 
 
