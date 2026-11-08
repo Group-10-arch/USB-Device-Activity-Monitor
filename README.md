@@ -52,3 +52,20 @@ The application was tested using different USB devices, including flash drives, 
 **Group 10 – CPUT SDN260S Software Design II**
 
 This project demonstrates the application of software design principles, object-oriented programming, multithreading, data structures and file handling.
+
+## 9. Group Members and Individual Contributions
+
+The following table outlines the responsibilities and contributions of each Group 10 member during the development, testing and presentation of the USB Device Activity Monitor.
+
+| Group Member | Individual Contribution |
+|---|---|
+| **Hlumelo Kani** | Introduced the project, explained the problem statement, project objectives and system architecture, including the object-oriented design and relationships between the main classes. |
+| **Yolanda Lona Mabutyana** | Responsible for the Command Line Interface (CLI), including the menu system, monitoring controls, device viewing, history searching and input validation. |
+| **Nompumelelo Madonsela** | Responsible for the Graphical User Interface (GUI), including the Java Swing dashboard, monitoring status, connected-device display, event history and user controls. |
+| **Teboho Pitso** | Responsible for event logging and data persistence, including local event records, file handling, retaining history and CSV export functionality. |
+| **Luyanda Dlamini** | Responsible for USB device detection and metadata monitoring, including background monitoring, device information collection and application event handling. |
+| **Zilungile Manzini** | Responsible for testing and evaluating the application, including normal device testing, edge-case testing, fault handling and performance evaluation. Also created and formatted the project's README.md documentation on GitHub. |
+| **Mthunzi Zulu** | Responsible for explaining and presenting Graduate Attributes GA2 and GA7, including engineering knowledge, sustainability, ethical considerations and the project's long-term impact. |
+| **Member 8** | Responsible for video editing and preparing the final project demonstration. |
+
+
