@@ -23,7 +23,6 @@ The USB Device Activity Monitor is a Java application developed to monitor USB d
 ## 4. Technologies Used
 - Java
 - NetBeans IDE
-- Maven
 - Java Swing
 - Object-Oriented Programming
 - File Handling
